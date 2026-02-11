@@ -56,9 +56,9 @@ Y para filtrar los libros por lenguaje se escoge la opcion 5, por el momento sol
 
 ## Tecnologias utilizadas
 - JAVA
-- MAVEN
-- Postgresql
+- Maven
 - Spring Framework
+- Postgresql
 ## Personas Contribuyentes
 Equipo de Alura latam.
 ## Autor
