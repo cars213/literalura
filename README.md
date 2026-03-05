@@ -24,7 +24,7 @@ Para descargar el proyecto se realiza click sobre el recuadro rojo (code).
 Posteriomente se hace click en el recuadro verde (Download zip) para descargar la carpeta comprimida.
 <img width="577" height="474" alt="image" src="https://github.com/user-attachments/assets/d4a0b15a-949a-4bd5-bcf6-9bd99a9eae01" />
 
-Se descomprime la carpeta y se abre en un editor de codigo JAVA, con esto puede ejecutar el conversor de moneda.
+Se descomprime la carpeta y se abre en un editor de codigo JAVA, con esto puede ejecutar el literalura.
 ### Segundo metodo.
 Con git bash ejecutar el siguiente comando 
 
