@@ -58,9 +58,8 @@ Y para filtrar los libros por lenguaje se escoge la opcion 5, por el momento sol
 - JAVA
 - Maven
 - Spring Framework
+- JPA
 - Postgresql
-## Personas Contribuyentes
-Equipo de Alura latam.
 ## Autor
 - Carlos Andres Rendon.
 
